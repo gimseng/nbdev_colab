@@ -1,8 +1,13 @@
 topnav:
 - title: Topnav
   items:
+<<<<<<< HEAD
     - title: github
       external_url: https://github.com/muellerzr/nbdev_colab/tree/master/
+=======
+    - title: GitHub
+      external_url: https://github.com/muellerzr/nbdev_colab
+>>>>>>> 315d9436b843cb137648ad3e43fda4be863db5e8
 
 #Topnav dropdowns
 topnav_dropdowns:
